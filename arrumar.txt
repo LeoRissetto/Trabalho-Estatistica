@@ -1,5 +1,1 @@
-checkar -> percentil
-checkar -> IQR
-checkar -> Coef de Variacao
-checkar -> Tabelas de Frequencia
 checkar -> Graficos
